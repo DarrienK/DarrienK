@@ -1,5 +1,5 @@
 - Hi! I'm @DarrienK
-- Haven't been coding in a while, but I'm excited to be back
+- Excited to code and learn
 - Looking to meet / interact with great people in the community
 
 <!---
